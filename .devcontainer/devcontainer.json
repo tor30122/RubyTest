@@ -1,0 +1,5 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/ruby:dev-3.4-bookworm",
+  "features": {
+  }
+}
