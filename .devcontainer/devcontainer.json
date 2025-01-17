@@ -1,5 +1,6 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/ruby:dev-3.4-bookworm",
+  "name": "Ruby on Rails",
+  "image": "mcr.microsoft.com/devcontainers/ruby:dev-3.2   ",
   "features": {
   }
 }
